@@ -1,2 +1,2 @@
-# 👋 Halo, saya Aura Nursyafa!
-💻 Seorang pengembang yang suka dunia IT yang berpandukan ai.
+👋 Hello there !I’m Aura Nursyafa
+💻 A developer who loves the world of AI-driven IT.
